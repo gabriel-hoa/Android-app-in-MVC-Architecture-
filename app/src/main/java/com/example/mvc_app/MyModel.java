@@ -1,6 +1,6 @@
 package com.example.mvc_app;
 
-//MVC- Model/View/Controler
+//MVC- Model/View/Controller
 // Model - Is the application backend. Acts like the Database or Network(Cloud store)
 public class MyModel {
 

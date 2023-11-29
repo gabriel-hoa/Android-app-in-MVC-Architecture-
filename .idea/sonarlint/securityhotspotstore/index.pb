@@ -25,3 +25,5 @@ G.idea/sonarlint/issuestore/9/4/9482476649a6fd3a282d8904c04dcee05ebef01e,9/a/9a
 Q.idea/sonarlint/securityhotspotstore/9/4/9482476649a6fd3a282d8904c04dcee05ebef01e,0/d/0d2f28fb26d78dbf51dca559260eee9690432ec4
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+@
+build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
