@@ -1,0 +1,27 @@
+
+b
+2app/src/main/java/com/example/mvc_app/MyModel.java,d/4/d40ae2c573d71efbcfd73ca41a8265a625aa8133
+g
+7app/src/main/java/com/example/mvc_app/MainActivity.java,9/4/9482476649a6fd3a282d8904c04dcee05ebef01e
+j
+:app/src/test/java/com/example/mvc_app/ExampleUnitTest.java,4/4/4433eda9bff7c7ba0d7f3696facde88b921c5845
+>
+app/.gitignore,5/1/51e1c5d383dfaa35e0e7e5873a0a99355a86880f
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+y
+Iapp/src/androidTest/java/com/example/mvc_app/ExampleInstrumentedTest.java,0/3/039f5a452edf8829834644fce04e5b22a01e380e
+F
+app/proguard-rules.pro,9/e/9e08934d811afe28fbc77aaa3c0d747b94348db9
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/d/4/d40ae2c573d71efbcfd73ca41a8265a625aa8133,2/5/2558634c0fec590d2b9e315eb3c82197fd056a7c
+w
+G.idea/sonarlint/issuestore/9/4/9482476649a6fd3a282d8904c04dcee05ebef01e,9/a/9aa5d8aa3c04d3eac4fc2871e42715d697ffd412
+Å
+Q.idea/sonarlint/securityhotspotstore/9/4/9482476649a6fd3a282d8904c04dcee05ebef01e,0/d/0d2f28fb26d78dbf51dca559260eee9690432ec4
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
