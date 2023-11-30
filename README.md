@@ -15,4 +15,7 @@ Model as MyModel class run the request and get data for Controller
 
 Controller pass the data to View who display the data
 
+Explained that, theres much more in MVC for example Service. Service works with Controller. It would be responsible for business rules and calls to the DAO or Repository in the time that Controller would be responsible for receiving information from Views (user requests) and making Service calls.
+
+Example of Service use: Imagine an application for vehicle registration, the View would contain a form that would be filled out by the user and sent via HTTP request to the Controller, which would validate the form and call the Service that would contain the business rule and then send it to the DAO or Repository to perform operations on the database.
 
