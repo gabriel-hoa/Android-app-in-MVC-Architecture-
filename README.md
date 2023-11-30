@@ -19,3 +19,5 @@ Explained that, theres much more in MVC for example Service. Service works with 
 
 Example of Service use: Imagine an application for vehicle registration, the View would contain a form that would be filled out by the user and sent via HTTP request to the Controller, which would validate the form and call the Service that would contain the business rule and then send it to the DAO or Repository to perform operations on the database.
 
+Articles: https://www.oracle.com/technical-resources/articles/java/java-se-app-design-with-mvc.html | http://www.gqferreira.com.br/artigos/ver/mvc-com-java-desktop-parte1
+
