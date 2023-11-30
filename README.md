@@ -1,5 +1,5 @@
 # Android-app-in-MVC-Architecture-
-Best practices using MVC architecture(explained) in a Android development app build with Java
+Best practices using MVC architecture(explained) in a Android development app built with Java
 
 Understanding MVC Architecture as Model-View-Controller.
 
